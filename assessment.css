@@ -1,0 +1,23 @@
+body{
+    background-color: #03C2FF;
+    color:#FDFFFF;
+    width: 500px;
+    margin-right: auto;
+    margin-left : auto;
+    padding: 5px 2px;
+}
+h1{
+    padding: 2px 2px;
+    color: #FFFFDD;
+}
+button{
+ padding: 5px 20px;
+ background-color: #337ab7;
+ color: #FDFFFF;
+border-color: #FDFFFF;
+border-style: none;
+border: solid 2px white;
+}
+input{
+    height:20px;
+}
